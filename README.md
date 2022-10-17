@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @norovsambuu
-- 👀 I’m interested in Transdisciplinary Engineering
-- 🌱 I’m currently learning R, Python and AWS Cloud
+- 👀 I’m interested in Data Analysis
+- 🌱 I’m currently learning R, Python and SQL
 - 📫 you can send me an email: norovsambuu.p@gmail.com
 
 <!---
